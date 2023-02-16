@@ -8,7 +8,7 @@ prework, slides, content etc.
 
 Please use these filenames:
 
-- * Here is my Flask Website (main page, about, lucky, temp_demo)*
+- * Here is my Flask Website (main page, about, lucky, temp_demo)
 - * Main page: https://asynchflaskwebsite.arobinson1.repl.co/
 - * About page: https://asynchflaskwebsite.arobinson1.repl.co/about
 - * Lucky page: https://asynchflaskwebsite.arobinson1.repl.co/lucky
