@@ -1,6 +1,6 @@
 
 
-*** Upload instructions
+*** Upload instructions:
 Upload all content relating to the delivery of your unit. Include the
 prework, slides, content etc. - *homework.md*, *homework.pdf*, or *homework.docx* for the homework
   assignment
