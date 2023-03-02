@@ -5,8 +5,11 @@
   links to videos or online resources for prework
 - Other files should be given names that make sense
 
--  Here is my updated Flask Website, Part 3 with Form(Get/Post) in repl.it https://replit.com/@arobinson1/form-demo#main.py
+-  Here is my updated Flask Website with Part 3 Forms(Get/Post, Username, Password, etc.): https://replit.com/@arobinson1/form-demo#templates/form-   demo.html
     Here is the Flask form https://form-demo.arobinson1.repl.co/form-demo
+
+-   Here is the updated Flask Website with Part 2 Sessions: https://replit.com/@arobinson1/session-demo2#main.py
+
 -  Here is my Flask Website in repl.it https://replit.com/@arobinson1/AsynchFlaskWebsite#main.py
    (main page, about, lucky, temp_demo)
 -  Main page: https://asynchflaskwebsite.arobinson1.repl.co/
